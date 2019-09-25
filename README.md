@@ -1,4 +1,4 @@
-# # DEPRECATED - PLEASE REFER TO [THIS REPO](https://github.com/RTTrP/RTTrP-v1.8.7.0)
+# DEPRECATED - PLEASE REFER TO [THIS REPO](https://github.com/RTTrP/RTTrP-v1.8.7.0)
 
 ## Tools
 
